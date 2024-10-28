@@ -38,7 +38,7 @@ Feel free to check out my projects and contributions below. Looking forward to l
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdShahab&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitshahab&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
 
