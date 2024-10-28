@@ -38,7 +38,11 @@ Feel free to check out my projects and contributions below. Looking forward to l
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitshahab&show_icons=true&hide_border=true&theme=tokyonight)
+<!-- Commits and Contribution Stats -->
+![Commit Stats](https://github-readme-stats.vercel.app/api?username=gitshahab&hide=prs,issues,stars&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitshahab&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
